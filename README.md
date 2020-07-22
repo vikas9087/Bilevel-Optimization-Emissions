@@ -4,6 +4,6 @@ Proposed a mathematical model for optimizing the profits and emissions while set
 2. `fuel_properties.csv` contains the attributes of fuels used in the thermal power plants. The attributes are unit costs, unit electricity produced, unit emissions prodcued.
 
 
-`Model Building.ipynb` contains the Python script for data storing and optimization building. Here I have built several user defined function to solve the models. __Please note here to execute this file you first need to install the mathematical model Gurobi__. For installation please visit [Gurobi](https://www.gurobi.com/)
+`Model Building.ipynb` contains the Python script for data storing and optimization building. Here I have built several user defined function to solve the models. __Please note here to execute this file you first need to install the mathematical solver Gurobi__. For installation please visit [Gurobi](https://www.gurobi.com/)
 
 Use `Data Visualization.ipynb` for the visualzation & summary of the results obtained from the models. For any further queries please contact me.
