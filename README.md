@@ -5,5 +5,6 @@ Proposed a mathematical model for optimizing the profits and emissions while set
 
 
 `Model Building.ipynb` contains the Python script for data storing and optimization building. Here I have built several user defined function to solve the models. __Please note here to execute this file you first need to install the mathematical solver Gurobi__. For installation please visit [Gurobi](https://www.gurobi.com/)
+  * There is one variable in 'Model Building.ipynb' `capacities` which means --> maximum percentage of supply available of each fuel type. For example, capacities = [.50, .60, .20] means that 50% of total electricity demand of customer can be satisfied using coal and similarly 60% by natural gas and so on.
 
 Use `Data Visualization.ipynb` for the visualzation & summary of the results obtained from the models. For any further queries please contact me.
