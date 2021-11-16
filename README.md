@@ -9,5 +9,7 @@ Proposed a mathematical model for optimizing the profits and emissions while set
 
 Use `Data Visualization.ipynb` for the visualzation & summary of the results obtained from the models. For any further queries please contact me.
 
+## Related Resources:
+* This model is a work of Masters' thesis titled 'Bilevel and Multi-objective Optimization of Electricity Price Setting with Carbon Emission Consideration'. To read [click here](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=4393&context=all_theses)
 ## Note:
 I have written this python code as a novice and it can be improved or made efficient to some extent.
